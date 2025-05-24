@@ -1,7 +1,7 @@
 # About me
 <p><h2>👋🏻Hey! I'm Jasurbek Begachov. I'm Backend developer.</h2></p>
 
-- Telegram:                           [Jasurbek Begachov](https://t.me/IPOHNI_16PRO)
+- Telegram:                           [Jasurbek Begachov](https://t.me/JASURBEK_BEGACHOV_02)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
